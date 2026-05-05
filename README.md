@@ -14,12 +14,14 @@ Register with any phone number, choose your role (Citizen / Volunteer / Authorit
 ### Citizen Dashboard
 Report incidents by type, description, and GPS coordinates. Send emergency SOS with one tap. Receive live broadcast alerts.
 
-![Citizen Dashboard](docs/citizen.png)
+![Citizen Dashboard 1](docs/citizen1.png)
+![Citizen Dashboard 2](docs/citizen2.png)
 
 ### Authority Dashboard
 Full operational view: live incident map (OpenStreetMap), incident table, task assignment to volunteers, broadcast alerts, and active SOS requests.
 
-![Authority Dashboard](docs/authority.png)
+![Authority Dashboard 1](docs/authority1.png)
+![Authority Dashboard 2](docs/authority2.png)
 
 ### Volunteer Dashboard
 View assigned tasks in real time. Update task status as work progresses.
